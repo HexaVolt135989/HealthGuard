@@ -71,6 +71,11 @@ These thresholds are intended for prototype testing and should not be considered
 
 The core sensor integration, OLED display, MPU6050 readings, DHT22 readings, status logic, and Serial Monitor output are implemented. Heart-rate, SpO₂, and particulate-matter readings are currently simulated.
 
+## OUTPUT:
+<img width="430" height="214" alt="Simulation Screenshot 1" src="https://github.com/user-attachments/assets/ad152b08-1e8c-4def-84e4-912921fe6a26" />
+
+<img width="427" height="212" alt="Simulation Screenshot 2" src="https://github.com/user-attachments/assets/36ca2f2f-92bf-4fee-9bcc-4423967e4c04" />
+
 ## Future Development
 
 Planned improvements include:
